@@ -11,3 +11,5 @@ ros2 launch urdf_tutorial display.launch.py model:=/home/ubiqlap/magni_ws/src/ma
 to view the model
 
 It is unknow if this will work with magni_bringup
+
+So far I have only tried the plain magni, I haven't tried the tower or loaded the extrinsics.
