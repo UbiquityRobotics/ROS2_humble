@@ -12,4 +12,8 @@ to view the model
 
 It is unknow if this will work with magni_bringup
 
-So far I have only tried the plain magni, I haven't tried the tower or loaded the extrinsics.
+So far I have only tried the plain magni, I haven't tried the tower or loaded the extrinsics
+
+Note there is no /launch file yet. the description.launch ROS1 file needs to be completely rewritten as
+
+description.launch.py for it to work in ROS2.
